@@ -1,4 +1,5 @@
-#Hacker Portfolio
+# Hacker Portfolio
+
 Welcome to the Hacker Portfolio! This project serves as a demonstration of my skills in web development, design, and coding. It's a personal project where I showcase my portfolio in an interactive and visually appealing way, with a focus on presenting my work in a modern, hacker-inspired theme.
 
 Table of Contents
